@@ -1,0 +1,23 @@
+file:///C:/Users/user/Downloads/DS%20Malik%20-%20C++%20Programming_%20From%20Problem%20Analysis%20to%20Program%20Design%20(2015,%20Cengage)%20-%20libgen.lc.pdf
+
+
+
+cin.get 184
+cin.ignore 186
+- macam mana cara dia skip
+
+putback and peek 187
+setprecision, fixed, showpoint 195
+setw 262
+setfill 266
+left right 269
+getline(stringtype)269
+
+chapter 4 300
+switch 339
+for 409
+do while 420
+while 380
+if else 306
+if 303
+conditional operator 335
